@@ -10,6 +10,7 @@ public class Prgm1_Array_Sum {
 			sum=sum+c;
 		}
 		System.out.println("The sum of all array is: "+sum);
+		System.out.println("Hi Dileep");
 	}
 
 }
